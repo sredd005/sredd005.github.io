@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.0cc0abac.chunk.css",
+    "main.js": "/home/static/js/main.422dc800.chunk.js",
+    "main.js.map": "/home/static/js/main.422dc800.chunk.js.map",
+    "runtime-main.js": "/home/static/js/runtime-main.3c590061.js",
+    "runtime-main.js.map": "/home/static/js/runtime-main.3c590061.js.map",
+    "static/css/2.11829350.chunk.css": "/home/static/css/2.11829350.chunk.css",
+    "static/js/2.33a5f004.chunk.js": "/home/static/js/2.33a5f004.chunk.js",
+    "static/js/2.33a5f004.chunk.js.map": "/home/static/js/2.33a5f004.chunk.js.map",
+    "index.html": "/home/index.html",
+    "precache-manifest.77174a7602abc502993336331714241e.js": "/home/precache-manifest.77174a7602abc502993336331714241e.js",
+    "service-worker.js": "/home/service-worker.js",
+    "static/css/2.11829350.chunk.css.map": "/home/static/css/2.11829350.chunk.css.map",
+    "static/css/main.0cc0abac.chunk.css.map": "/home/static/css/main.0cc0abac.chunk.css.map",
+    "static/js/2.33a5f004.chunk.js.LICENSE.txt": "/home/static/js/2.33a5f004.chunk.js.LICENSE.txt",
+    "static/media/giros.jpg": "/home/static/media/giros.c1a1c5e1.jpg",
+    "static/media/resume.pdf": "/home/static/media/resume.6b899b69.pdf",
+    "static/media/treez.jpg": "/home/static/media/treez.65e021ea.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c590061.js",
+    "static/css/2.11829350.chunk.css",
+    "static/js/2.33a5f004.chunk.js",
+    "static/css/main.0cc0abac.chunk.css",
+    "static/js/main.422dc800.chunk.js"
+  ]
+}
