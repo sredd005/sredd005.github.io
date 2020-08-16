@@ -1,0 +1,41 @@
+{
+  "backgroundType": "gradient",
+  "plainBackgroundMode": "daylight",
+  "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+  "FirstName": "Saikrishna",
+  "MiddleName": "",
+  "LastName": "Reddy",
+  "devDesc": "| Programmer | Tech Enthusiast | Engineer | Photographer ",
+  "icons": [{
+          "id": 0,
+          "image": "fa-github",
+          "url": "https://github.com/sredd005",
+          "style": "socialicons"
+      },
+      {
+          "id": 1,
+          "image": "fa-instagram",
+          "url": "https://www.instagram.com/saint_reddy/",
+          "style": "socialicons"
+      },
+      {
+          "id": 2,
+          "image": "fa-linkedin",
+          "url": "https://www.linkedin.com/in/saikrishnareddy023/",
+          "style": "socialicons"
+      }
+  ],
+  "aboutHeading": "About Me",
+  "showInstaProfilePic": true,
+  "instaLink": "https://www.instagram.com/",
+  "instaUsername": "saint_reddy",
+  "instaQuerry": "/?__a=1",
+  "aboutDescription": "Hello! I am a recent computer science + business applications graduate from UC Riverside! I have a deep passion for programming, data engineering, and tech management. I have held various internships, research, and officer positions throughout my college career and I enjoy challenges. In my free time, I like to work on some fun projects, like building a Twitter API Crawler and playing basketball, piano, and snowboarding in Lake Tahoe.",
+  "projectHeading": "Projects",
+  "gitHubLink": "https://api.github.com/users/",
+  "gitHubUsername": "sredd005",
+  "gitHubQuerry": "/repos?sort=updated&direction=desc",
+  "projectsLength": 20,
+  "showNavigationbar": true,
+  "showBlog": false
+}
