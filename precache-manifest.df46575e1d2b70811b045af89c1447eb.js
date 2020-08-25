@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f1477ef8151fcdeb2b3c36f48582e5bb",
+    "revision": "55149be475c733d2622927294b4618d9",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "76c23fe03e813f0dc831",
+    "revision": "aeb4b1f2b66b067e24c3",
     "url": "/static/css/main.0cc0abac.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.33a5f004.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "76c23fe03e813f0dc831",
-    "url": "/static/js/main.e53c6492.chunk.js"
+    "revision": "aeb4b1f2b66b067e24c3",
+    "url": "/static/js/main.413b0422.chunk.js"
   },
   {
     "revision": "f52ba179432c3be28857",
@@ -32,8 +32,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/giros.c1a1c5e1.jpg"
   },
   {
-    "revision": "6b899b696c25623f2dbe725b4de387ae",
-    "url": "/static/media/resume.6b899b69.pdf"
+    "revision": "9d4b5a984a1ad6079cc1d02984974104",
+    "url": "/static/media/resume.9d4b5a98.pdf"
   },
   {
     "revision": "65e021eaf6eb2e19a090a1873768ad8c",
