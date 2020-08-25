@@ -1,2 +1,1 @@
-# sredd005.github.io
-website
+Welcome! My personal website is built with React + Bootstrap and deployed at [www.saireddy.me](https://www.saireddy.me).
